@@ -21,7 +21,7 @@ This project addresses the challenge by consolidating UPI transaction data and p
     9. Daily / Monthly Transaction Volume
     10. Total Transaction Value
 
-(Dataset can be sourced from Kaggle.)
+(Dataset can be sourced from Kaggle)
 
 
 4.	Methodology :
