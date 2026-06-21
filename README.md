@@ -25,23 +25,22 @@ This project addresses the challenge by consolidating UPI transaction data and p
 
 
 4.	Methodology :
-   •	Data Integration
-  	Power BI will be used to import and clean data from CSV/Excel sources. Data transformation will be performed using Power Query, including removal of duplicates, handling missing values, and formatting date and numeric fields.
-  	•	Dashboard Design
-  	The dashboards will be designed with a clean and intuitive layout, focusing on clarity and usability. Visuals such as KPI cards, bar charts, line charts, maps, and pie charts will be used.
+i.	Data Integration
+  	Power BI will be used to import and clean data from CSV/Excel sources. Data transformation will be performed using Power     Query, including removal of duplicates, handling missing values, and formatting date and numeric fields.
+   ii.	Dashboard DesignThe dashboards will be designed with a clean and intuitive layout, focusing on clarity and usability. Visuals such as KPI cards, bar charts, line charts, maps, and pie charts will be used.
   	
-5.	Expected Outcomes
+6.	Expected Outcomes
    1] Interactive Power BI dashboards showing UPI transaction trends and usage patterns.
   	2] Identification of peak transaction periods and high-performing regions.
   	3] Insights into user preferences and popular transaction categories.
   	4] Month-wise and app-wise growth analysis of UPI usage.
   	
-6.	Tools and Technologies
+7.	Tools and Technologies
    
     *	Power BI Desktop
     *	Power BI Service
     *	Python
 
 
-7.	Conclusion
+8.	Conclusion
    The UPI Digital Payment Analysis in India project demonstrates the practical application of Power BI in analysing large-scale financial data. By converting complex transaction data into interactive visual dashboards, this project enhances understanding of digital payment trends and supports strategic decision-making. The insights generated can contribute to improving digital payment adoption and financial inclusion in India.
