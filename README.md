@@ -43,4 +43,4 @@ i.	Data Integration
 
 
 8.	Conclusion
-   The UPI Digital Payment Analysis in India project demonstrates the practical application of Power BI in analysing large-scale financial data. By converting complex transaction data into interactive visual dashboards, this project enhances understanding of digital payment trends and supports strategic decision-making. The insights generated can contribute to improving digital payment adoption and financial inclusion in India.
+The UPI Digital Payment Analysis in India project demonstrates the practical application of Power BI in analysing large-scale financial data. By converting complex transaction data into interactive visual dashboards, this project enhances understanding of digital payment trends and supports strategic decision-making. The insights generated can contribute to improving digital payment adoption and financial inclusion in India.
